@@ -10,8 +10,8 @@ Original file is located at
 
 |Student Nunmber|Name                  |
 |:--------------|:---------------------|
-|  A0200521E             | Aryan Sarswat |
-|  A0200533Y             | Anurag S. Chatterjee |
+|   | Aryan Sarswat |
+|   | Anurag S. Chatterjee |
 
 Please work together as a team of 2 to complete this lab. You will need to submit ONE copy of this notebook per team, but please fill in the names of both team members above. This lab is worth 25 marks:
 
