@@ -11,8 +11,8 @@ Original file is located at
 
 |Student Number |Name                  |
 |:--------------|:---------------------|
-|   A0200521E            | Aryan Sarswat |
-|    A0200533Y           | Anurag S. Chatterjee |
+|  | Aryan Sarswat |
+|  | Anurag S. Chatterjee |
 
 
 ## 1. Introduction
